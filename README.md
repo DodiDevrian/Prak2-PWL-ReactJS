@@ -1,3 +1,18 @@
+### Nama: Dodi Devrian Andrianto
+### NIM : 119140023
+### Tugas Praktikum 2 React JS
+
+Instalasi Dependensi Tambahan
+
+```
+npm install react-router-dom
+npm install react-scroll
+npm install react-jss
+```
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
